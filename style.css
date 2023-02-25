@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main-heading{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 50px;
+    font-weight: 500;
+    color: #fff;
+    background-color: black;
+    /* border-radius: 0 0 50px 50px; */
+}
+.back-img-fix{
+    height: 800px;
+    width: 100%;
+}
+.cant-heading{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    font-size: 100px;
+    font-weight: 600;
+    color: #ffff;
+}
+.cont-para{
+    /* background-color: black; */
+    color: #FFFF;
+    background-color: black;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 50px 30px 50px;
+    border-radius: 60px 60px 0 0;
+}
+.cont-1a{
+    background-image: url(./IMG/srinagar.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+.cont-2a{
+    background-image: url(./IMG/Delhi.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.cont-3a{
+    background-image: url(./IMG/jammu.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.cont-4a{
+    background-image: url(./IMG/kerala.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.cont-5a{
+    background-image: url(./IMG/jashalmeer.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.cont-6a{
+    background-image: url(./IMG/Manali\,\ Himachal\ Pradesh.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.cont-7a{
+    background-image: url(./IMG/Sikkim.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.cont-8a{
+    background-image: url(./IMG/Kolkata\,\ West\ Bengal.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.cont-9a{
+    background-image: url(./IMG/Mysore.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.cont-10a{
+    background-image: url(./IMG/Lakshadweep\ Islands.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.p-position-relative{
+    position: relative;
+}
+.p-position-absolute{
+    position: absolute;
+    bottom: 0%;
+}
+.span{
+    display: flex;
+    justify-content: center;
+    color: aquamarine;
+}
